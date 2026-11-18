@@ -1,0 +1,27 @@
+=== Configured drop probability: 0 ===
+Sender: Sent 200 packets, deliberately dropped 0 (drop probability 0.0)
+Expected packets : 200
+Received         : 200
+Lost             : 0 (0.0%)
+Reordered        : 0
+Duplicates       : 0
+Latency (ms)     : min 0.000 | avg 0.192 | max 1.393
+
+=== Configured drop probability: 0.1 ===
+Sender: Sent 183 packets, deliberately dropped 17 (drop probability 0.1)
+Expected packets : 200
+Received         : 183
+Lost             : 17 (8.5%)
+Reordered        : 0
+Duplicates       : 0
+Latency (ms)     : min 0.000 | avg 0.159 | max 1.605
+
+=== Configured drop probability: 0.3 ===
+Sender: Sent 134 packets, deliberately dropped 66 (drop probability 0.3)
+Expected packets : 200
+Received         : 134
+Lost             : 66 (33.0%)
+Reordered        : 0
+Duplicates       : 0
+Latency (ms)     : min 0.000 | avg 0.236 | max 1.337
+
