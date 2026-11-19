@@ -5,23 +5,23 @@ Received         : 200
 Lost             : 0 (0.0%)
 Reordered        : 0
 Duplicates       : 0
-Latency (ms)     : min 0.000 | avg 0.192 | max 1.393
+Latency (ms)     : min 0.000 | avg 0.161 | max 0.853
 
 === Configured drop probability: 0.1 ===
-Sender: Sent 183 packets, deliberately dropped 17 (drop probability 0.1)
+Sender: Sent 175 packets, deliberately dropped 25 (drop probability 0.1)
 Expected packets : 200
-Received         : 183
-Lost             : 17 (8.5%)
+Received         : 175
+Lost             : 25 (12.5%)
 Reordered        : 0
 Duplicates       : 0
-Latency (ms)     : min 0.000 | avg 0.159 | max 1.605
+Latency (ms)     : min 0.000 | avg 0.159 | max 0.692
 
 === Configured drop probability: 0.3 ===
-Sender: Sent 134 packets, deliberately dropped 66 (drop probability 0.3)
+Sender: Sent 122 packets, deliberately dropped 78 (drop probability 0.3)
 Expected packets : 200
-Received         : 134
-Lost             : 66 (33.0%)
+Received         : 122
+Lost             : 78 (39.0%)
 Reordered        : 0
 Duplicates       : 0
-Latency (ms)     : min 0.000 | avg 0.236 | max 1.337
+Latency (ms)     : min 0.000 | avg 0.105 | max 0.775
 
